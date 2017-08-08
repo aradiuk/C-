@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/c++_game_progamming/tic-tac-toe_pointers/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+
