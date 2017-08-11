@@ -1,0 +1,3 @@
+/home/andrew/Projects/c++_through_game_programming/critter_caretaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew/Projects/c++_through_game_programming/critter_caretaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/Projects/c++_through_game_programming/critter_caretaker/cmake-build-debug/CMakeFiles/critter_caretaker.dir

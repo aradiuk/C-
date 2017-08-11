@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/critter_caretaker.dir/main.cpp.o  -o critter_caretaker 
