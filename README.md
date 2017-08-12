@@ -1,5 +1,5 @@
 # C++
-Beginning C++ Through Game Programming
+Beginning C++ Through Game Programming by Michael Dawson
 
 This repository will mainly consist of game projects, written in C++ with CLion IDE.
 
