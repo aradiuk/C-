@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/contact.cpp
+contact.h
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/contact.h
+
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/contact.h
+iostream
+-
+
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/main.cpp
+iostream
+-
+contact.h
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/contact.h
+phonebook.h
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/phonebook.h
+
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/phonebook.cpp
+phonebook.h
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/phonebook.h
+
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/phonebook.h
+iostream
+-
+contact.h
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/contact.h
+

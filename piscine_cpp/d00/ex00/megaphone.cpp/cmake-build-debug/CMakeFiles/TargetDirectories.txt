@@ -1,0 +1,3 @@
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex00/megaphone.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex00/megaphone.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex00/megaphone.cpp/cmake-build-debug/CMakeFiles/megaphone_cpp.dir

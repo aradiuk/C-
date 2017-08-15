@@ -1,0 +1,4 @@
+/home/andrew/CLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex01/phonebook.cpp/cmake-build-debug
