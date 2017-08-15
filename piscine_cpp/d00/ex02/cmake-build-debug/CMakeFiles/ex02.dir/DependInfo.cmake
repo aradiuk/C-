@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02/main.cpp" "/home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles/ex02.dir/main.cpp.o"
+  "/home/andrew/Projects/cpp/piscine_cpp/d00/ex02/Account.class.cpp" "/home/andrew/Projects/cpp/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles/ex02.dir/Account.class.cpp.o"
+  "/home/andrew/Projects/cpp/piscine_cpp/d00/ex02/main.cpp" "/home/andrew/Projects/cpp/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles/ex02.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -48,10 +48,10 @@ RM = /home/andrew/CLion/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02
+CMAKE_SOURCE_DIR = /home/andrew/Projects/cpp/piscine_cpp/d00/ex02
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02/cmake-build-debug
+CMAKE_BINARY_DIR = /home/andrew/Projects/cpp/piscine_cpp/d00/ex02/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrew/Projects/cpp/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles /home/andrew/Projects/cpp/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrew/Projects/c++_game_progamming/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/andrew/Projects/cpp/piscine_cpp/d00/ex02/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,33 @@ ex02/fast:
 	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/build
 .PHONY : ex02/fast
 
+Account.class.o: Account.class.cpp.o
+
+.PHONY : Account.class.o
+
+# target to build an object file
+Account.class.cpp.o:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/Account.class.cpp.o
+.PHONY : Account.class.cpp.o
+
+Account.class.i: Account.class.cpp.i
+
+.PHONY : Account.class.i
+
+# target to preprocess a source file
+Account.class.cpp.i:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/Account.class.cpp.i
+.PHONY : Account.class.cpp.i
+
+Account.class.s: Account.class.cpp.s
+
+.PHONY : Account.class.s
+
+# target to generate assembly for a file
+Account.class.cpp.s:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/Account.class.cpp.s
+.PHONY : Account.class.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ex02"
+	@echo "... Account.class.o"
+	@echo "... Account.class.i"
+	@echo "... Account.class.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
