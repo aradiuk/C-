@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex07/File.cpp
+File.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex07/File.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex07/File.h
+iostream
+-
+fstream
+-
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex07/main.cpp
+iostream
+-
+fstream
+-
+File.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex07/File.h
+

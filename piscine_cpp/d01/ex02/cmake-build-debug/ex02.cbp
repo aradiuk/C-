@@ -84,6 +84,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.cpp">
+			<Option target="ex02"/>
+		</Unit>
+		<Unit filename="/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.h">
+			<Option target="ex02"/>
+		</Unit>
+		<Unit filename="/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.cpp">
+			<Option target="ex02"/>
+		</Unit>
+		<Unit filename="/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.h">
+			<Option target="ex02"/>
+		</Unit>
 		<Unit filename="/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/main.cpp">
 			<Option target="ex02"/>
 		</Unit>

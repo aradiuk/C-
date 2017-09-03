@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Peon.cpp
+Peon.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Peon.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Peon.h
+Victim.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Victim.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Sorcerer.cpp
+Sorcerer.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Sorcerer.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Sorcerer.h
+iostream
+-
+Victim.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Victim.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Victim.cpp
+Victim.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Victim.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Victim.h
+iostream
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/iostream
+
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/main.cpp
+iostream
+-
+Sorcerer.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Sorcerer.h
+Peon.h
+/home/andrew/Projects/cpp/piscine_cpp/d04/ex00/Peon.h
+

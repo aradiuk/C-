@@ -1,0 +1,33 @@
+#include <iostream>
+#include "AWeapon.h"
+#include "PlasmaRifle.h"
+#include "PowerFist.h"
+#include "RadScorpion.h"
+#include "SuperMutant.h"
+#include "Character.h"
+
+int main()
+{
+	Character* zaz = new Character("zaz");
+
+	std::cout << *zaz;
+
+	Enemy* b = new RadScorpion();
+
+	AWeapon* pr = new PlasmaRifle();
+	AWeapon* pf	= new PowerFist();
+
+	zaz->equip(pr);
+	std::cout << *zaz;
+	zaz->equip(pf);
+
+	zaz->attack(b);
+	std::cout << *zaz;
+	zaz->equip(pr);
+	std::cout << *zaz;
+	zaz->attack(b);
+	std::cout << *zaz;
+	zaz->attack(b);
+	std::cout << *zaz;
+	return 0;
+}

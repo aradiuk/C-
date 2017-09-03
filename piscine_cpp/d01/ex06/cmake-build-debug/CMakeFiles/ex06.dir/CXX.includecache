@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanA.cpp
+HumanA.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanA.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanA.h
+iostream
+-
+Weapon.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/Weapon.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanB.cpp
+HumanB.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanB.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanB.h
+iostream
+-
+Weapon.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/Weapon.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/Weapon.cpp
+Weapon.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/Weapon.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/Weapon.h
+iostream
+-
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/main.cpp
+iostream
+-
+Weapon.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/Weapon.h
+HumanA.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanA.h
+HumanB.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex06/HumanB.h
+

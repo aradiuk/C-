@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.cpp
+Zombie.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.h
+iostream
+-
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.cpp
+ZombieEvent.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.h
+ctime
+-
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.h
+iostream
+-
+Zombie.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/main.cpp
+iostream
+-
+Zombie.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.h
+ZombieEvent.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.h
+

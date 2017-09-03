@@ -123,6 +123,60 @@ ex02/fast:
 	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/build
 .PHONY : ex02/fast
 
+Zombie.o: Zombie.cpp.o
+
+.PHONY : Zombie.o
+
+# target to build an object file
+Zombie.cpp.o:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/Zombie.cpp.o
+.PHONY : Zombie.cpp.o
+
+Zombie.i: Zombie.cpp.i
+
+.PHONY : Zombie.i
+
+# target to preprocess a source file
+Zombie.cpp.i:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/Zombie.cpp.i
+.PHONY : Zombie.cpp.i
+
+Zombie.s: Zombie.cpp.s
+
+.PHONY : Zombie.s
+
+# target to generate assembly for a file
+Zombie.cpp.s:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/Zombie.cpp.s
+.PHONY : Zombie.cpp.s
+
+ZombieEvent.o: ZombieEvent.cpp.o
+
+.PHONY : ZombieEvent.o
+
+# target to build an object file
+ZombieEvent.cpp.o:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/ZombieEvent.cpp.o
+.PHONY : ZombieEvent.cpp.o
+
+ZombieEvent.i: ZombieEvent.cpp.i
+
+.PHONY : ZombieEvent.i
+
+# target to preprocess a source file
+ZombieEvent.cpp.i:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/ZombieEvent.cpp.i
+.PHONY : ZombieEvent.cpp.i
+
+ZombieEvent.s: ZombieEvent.cpp.s
+
+.PHONY : ZombieEvent.s
+
+# target to generate assembly for a file
+ZombieEvent.cpp.s:
+	$(MAKE) -f CMakeFiles/ex02.dir/build.make CMakeFiles/ex02.dir/ZombieEvent.cpp.s
+.PHONY : ZombieEvent.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ex02"
+	@echo "... Zombie.o"
+	@echo "... Zombie.i"
+	@echo "... Zombie.s"
+	@echo "... ZombieEvent.o"
+	@echo "... ZombieEvent.i"
+	@echo "... ZombieEvent.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

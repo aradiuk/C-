@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/Zombie.cpp" "/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/cmake-build-debug/CMakeFiles/ex02.dir/Zombie.cpp.o"
+  "/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/ZombieEvent.cpp" "/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/cmake-build-debug/CMakeFiles/ex02.dir/ZombieEvent.cpp.o"
   "/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/main.cpp" "/home/andrew/Projects/cpp/piscine_cpp/d01/ex02/cmake-build-debug/CMakeFiles/ex02.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

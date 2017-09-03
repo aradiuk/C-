@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex09/Logger.cpp
+Logger.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex09/Logger.h
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex09/Logger.h
+iostream
+-
+fstream
+-
+
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex09/main.cpp
+iostream
+-
+Logger.h
+/home/andrew/Projects/cpp/piscine_cpp/d01/ex09/Logger.h
+

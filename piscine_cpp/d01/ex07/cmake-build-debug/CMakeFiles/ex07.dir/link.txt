@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ex07.dir/main.cpp.o CMakeFiles/ex07.dir/File.cpp.o  -o ex07 

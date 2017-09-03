@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ex04.dir/main.cpp.o CMakeFiles/ex04.dir/IMiningLaser.cpp.o CMakeFiles/ex04.dir/IAsteroid.cpp.o CMakeFiles/ex04.dir/DeepCoreMiner.cpp.o CMakeFiles/ex04.dir/StripMiner.cpp.o CMakeFiles/ex04.dir/AsteroBocal.cpp.o CMakeFiles/ex04.dir/BocalSteroid.cpp.o CMakeFiles/ex04.dir/MiningBarge.cpp.o  -o ex04 
