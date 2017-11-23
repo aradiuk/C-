@@ -1,0 +1,8 @@
+PROJECT_NAME     = "Vector"
+
+OUTPUT_DIRECTORY = /home/andriiradiuk/Projects/python
+
+GENERATE_HTML = YES
+CASE_SENSE_NAMES = YES
+
+INPUT            = /home/andriiradiuk/Projects/python/vector.hpp
